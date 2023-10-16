@@ -1,4 +1,4 @@
-import { ImageSlider } from "./imgs/imageSlider"
+import { ImageSlider } from "./imageSlider"
 import wall1 from "./imgs/wall1.jpg"
 import wall2 from "./imgs/wall2.jpg"
 import wall3 from "./imgs/wall3.jpg"
